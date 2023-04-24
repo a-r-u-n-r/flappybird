@@ -152,7 +152,7 @@ position: absolute;
 background:url(${brdimg});
 height:60px;
 width:100px;
-backgroung-color:blue;
+backgroung-color:red;
 top:${(props)=>props.top}px;
 right:${(props)=>props.right}px;
 border-radius:50%;
